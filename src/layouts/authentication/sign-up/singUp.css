@@ -1,0 +1,31 @@
+select {
+  font-size: 1rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  color: #333;
+}
+
+select:focus {
+  outline: none;
+  border-color: #0077ff;
+  box-shadow: 0 0 0 2px rgba(0, 119, 255, 0.2);.select-roles {
+  font-size: 1.2rem;
+  padding: 0.5rem 1rem;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
+  background-color: #f9f9f9;
+}
+
+.select-roles option {
+  font-size: 1rem;
+  background-color: #fff;
+}
+
+.papel{
+  font-size: 0.8rem;
+}
+
+}
